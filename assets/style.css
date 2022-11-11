@@ -14,8 +14,6 @@ h1,
 h2 {
  text-align: center;
 }
-<<<<<<< HEAD
-
 img {
  display: block;
  height: 50px;
@@ -34,26 +32,6 @@ p {
  font-size: 30px;
 }
 .card {
-=======
-img {
-    display: block;
-    height: 50px;
-    width: 50px;
-    margin-left: auto;
-    margin-right: auto;
-   }
-   
-   ul {
-    padding-left: 40px;
-    font-size: 20px;
-   }
-   
-   p {
-    text-align: center;
-    font-size: 30px;
-   }
-   .card {
->>>>>>> 2091562e252215203cea8101af3e5cafbd53a16a
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
